@@ -1,0 +1,7 @@
+    The internet works by networks connecting to oneanother.
+You have your network at home that connects to your network
+provider.  That connects you to the web sites on other networks.
+    When you click a link it sends a request through your router
+then to the dns server.  Which usually sends back the ip address
+of the website you want to visit or linked clicked on.  When you have visited it before,
+your browser might have it cached.
